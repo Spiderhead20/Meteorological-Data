@@ -1,4 +1,4 @@
-#Meteorological Data
+#Meteorological Data.
 
 This project works around some meteorologic statistics in order to manipulate them in any desired way. An example is provided with an user interface featuring data for 10 major mexican cities. 
 
@@ -9,9 +9,12 @@ This project works around some meteorologic statistics in order to manipulate th
 - Python 3 installed
 - tkinter python library
 
-####How to use:
+####How to use.
+
 In your Jupiter Notebook open the interface.ipynb file and execute the whole kernel. An interface will be displayed, giving you 10 optional cities to choose from. Dependeing on the selected city, the buttons of the screen will display major information about their humidity, temprerature, wind conditions and general data related to their distance to the nearest sea.
-####Setting up your own system:
+
+####Setting up your own system.
+
 If you wish to have this system with your own selected cities, follow these steps.
 
 - Go to https://openweathermap.org/api and check if the city you want to work with is available in the browser of the page.

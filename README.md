@@ -3,6 +3,7 @@
 This project works around some meteorologic statistics in order to manipulate them in any desired way. An example is provided with an user interface featuring data for 10 major mexican cities. 
 
 ![Cover](/Assets/Background.png)
+
 ####Requirements:
 - Jupiter Notenook SetUp
 - Python 3 installed
